@@ -1,0 +1,1224 @@
+2025-02-16 15:02:51,284 - INFO - Iniciando procesamiento de: MaxAbs_Linear_selected.parquet
+2025-02-16 15:02:52,724 - INFO - Split exitoso: {'original_samples': 660486, 'train_samples': 528388, 'test_samples': 132098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 146716, 4: 118313, 3: 112396, 2: 102243, 1: 48720}, 'class_distribution_test': {5: 36680, 4: 29578, 3: 28099, 2: 25561, 1: 12180}}
+2025-02-16 15:02:52,731 - INFO - Iniciando procesamiento de: MaxAbs_Model-Based_selected.parquet
+2025-02-16 15:02:58,079 - INFO - Split exitoso: {'original_samples': 660486, 'train_samples': 528388, 'test_samples': 132098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 146716, 4: 118313, 3: 112396, 2: 102243, 1: 48720}, 'class_distribution_test': {5: 36680, 4: 29578, 3: 28099, 2: 25561, 1: 12180}}
+2025-02-16 15:02:58,110 - INFO - Iniciando procesamiento de: MaxAbs_Nonlinear_selected.parquet
+2025-02-16 15:03:06,083 - INFO - Split exitoso: {'original_samples': 660486, 'train_samples': 528388, 'test_samples': 132098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 146716, 4: 118313, 3: 112396, 2: 102243, 1: 48720}, 'class_distribution_test': {5: 36680, 4: 29578, 3: 28099, 2: 25561, 1: 12180}}
+2025-02-16 15:03:06,135 - INFO - Iniciando procesamiento de: MinMax_Linear_selected.parquet
+2025-02-16 15:03:07,303 - INFO - Split exitoso: {'original_samples': 660486, 'train_samples': 528388, 'test_samples': 132098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 146716, 4: 118313, 3: 112396, 2: 102243, 1: 48720}, 'class_distribution_test': {5: 36680, 4: 29578, 3: 28099, 2: 25561, 1: 12180}}
+2025-02-16 15:03:07,311 - INFO - Iniciando procesamiento de: MinMax_Model-Based_selected.parquet
+2025-02-16 15:03:12,518 - INFO - Split exitoso: {'original_samples': 660486, 'train_samples': 528388, 'test_samples': 132098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 146716, 4: 118313, 3: 112396, 2: 102243, 1: 48720}, 'class_distribution_test': {5: 36680, 4: 29578, 3: 28099, 2: 25561, 1: 12180}}
+2025-02-16 15:03:12,556 - INFO - Iniciando procesamiento de: MinMax_Nonlinear_selected.parquet
+2025-02-16 15:03:24,237 - INFO - Split exitoso: {'original_samples': 660486, 'train_samples': 528388, 'test_samples': 132098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 146716, 4: 118313, 3: 112396, 2: 102243, 1: 48720}, 'class_distribution_test': {5: 36680, 4: 29578, 3: 28099, 2: 25561, 1: 12180}}
+2025-02-16 15:03:24,303 - INFO - Iniciando procesamiento de: NoNorm_Linear_selected.parquet
+2025-02-16 15:03:26,718 - INFO - Split exitoso: {'original_samples': 660486, 'train_samples': 528388, 'test_samples': 132098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 146716, 4: 118313, 3: 112396, 2: 102243, 1: 48720}, 'class_distribution_test': {5: 36680, 4: 29578, 3: 28099, 2: 25561, 1: 12180}}
+2025-02-16 15:03:26,729 - INFO - Iniciando procesamiento de: NoNorm_Model-Based_selected.parquet
+2025-02-16 15:03:36,571 - INFO - Split exitoso: {'original_samples': 660486, 'train_samples': 528388, 'test_samples': 132098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 146716, 4: 118313, 3: 112396, 2: 102243, 1: 48720}, 'class_distribution_test': {5: 36680, 4: 29578, 3: 28099, 2: 25561, 1: 12180}}
+2025-02-16 15:03:36,625 - INFO - Iniciando procesamiento de: NoNorm_Nonlinear_selected.parquet
+2025-02-16 15:03:52,112 - INFO - Split exitoso: {'original_samples': 660486, 'train_samples': 528388, 'test_samples': 132098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 146716, 4: 118313, 3: 112396, 2: 102243, 1: 48720}, 'class_distribution_test': {5: 36680, 4: 29578, 3: 28099, 2: 25561, 1: 12180}}
+2025-02-16 15:03:52,214 - INFO - Iniciando procesamiento de: Robust_Linear_selected.parquet
+2025-02-16 15:03:54,209 - INFO - Split exitoso: {'original_samples': 660486, 'train_samples': 528388, 'test_samples': 132098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 146716, 4: 118313, 3: 112396, 2: 102243, 1: 48720}, 'class_distribution_test': {5: 36680, 4: 29578, 3: 28099, 2: 25561, 1: 12180}}
+2025-02-16 15:03:54,221 - INFO - Iniciando procesamiento de: Robust_Model-Based_selected.parquet
+2025-02-16 15:04:03,025 - INFO - Split exitoso: {'original_samples': 660486, 'train_samples': 528388, 'test_samples': 132098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 146716, 4: 118313, 3: 112396, 2: 102243, 1: 48720}, 'class_distribution_test': {5: 36680, 4: 29578, 3: 28099, 2: 25561, 1: 12180}}
+2025-02-16 15:04:03,079 - INFO - Iniciando procesamiento de: Robust_Nonlinear_selected.parquet
+2025-02-16 15:04:18,643 - INFO - Split exitoso: {'original_samples': 660486, 'train_samples': 528388, 'test_samples': 132098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 146716, 4: 118313, 3: 112396, 2: 102243, 1: 48720}, 'class_distribution_test': {5: 36680, 4: 29578, 3: 28099, 2: 25561, 1: 12180}}
+2025-02-16 15:04:18,716 - INFO - Iniciando procesamiento de: Standard_Linear_selected.parquet
+2025-02-16 15:04:21,365 - INFO - Split exitoso: {'original_samples': 660486, 'train_samples': 528388, 'test_samples': 132098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 146716, 4: 118313, 3: 112396, 2: 102243, 1: 48720}, 'class_distribution_test': {5: 36680, 4: 29578, 3: 28099, 2: 25561, 1: 12180}}
+2025-02-16 15:04:21,377 - INFO - Iniciando procesamiento de: Standard_Model-Based_selected.parquet
+2025-02-16 15:04:27,372 - INFO - Split exitoso: {'original_samples': 660486, 'train_samples': 528388, 'test_samples': 132098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 146716, 4: 118313, 3: 112396, 2: 102243, 1: 48720}, 'class_distribution_test': {5: 36680, 4: 29578, 3: 28099, 2: 25561, 1: 12180}}
+2025-02-16 15:04:27,404 - INFO - Iniciando procesamiento de: Standard_Nonlinear_selected.parquet
+2025-02-16 15:04:38,330 - INFO - Split exitoso: {'original_samples': 660486, 'train_samples': 528388, 'test_samples': 132098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 146716, 4: 118313, 3: 112396, 2: 102243, 1: 48720}, 'class_distribution_test': {5: 36680, 4: 29578, 3: 28099, 2: 25561, 1: 12180}}
+2025-02-16 15:04:38,423 - INFO - Proceso finalizado: 15/15 exitosos
+2025-02-16 15:09:37,579 - INFO - Iniciando procesamiento de: MaxAbs_Linear_selected.parquet
+2025-02-16 15:09:38,806 - INFO - Split exitoso: {'original_samples': 660486, 'train_samples': 528388, 'test_samples': 132098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 146716, 4: 118313, 3: 112396, 2: 102243, 1: 48720}, 'class_distribution_test': {5: 36680, 4: 29578, 3: 28099, 2: 25561, 1: 12180}}
+2025-02-16 15:09:38,806 - INFO - Iniciando procesamiento de: MaxAbs_Model-Based_selected.parquet
+2025-02-16 15:09:43,918 - INFO - Split exitoso: {'original_samples': 660486, 'train_samples': 528388, 'test_samples': 132098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 146716, 4: 118313, 3: 112396, 2: 102243, 1: 48720}, 'class_distribution_test': {5: 36680, 4: 29578, 3: 28099, 2: 25561, 1: 12180}}
+2025-02-16 15:09:43,948 - INFO - Iniciando procesamiento de: MaxAbs_Nonlinear_selected.parquet
+2025-02-16 15:09:52,188 - INFO - Split exitoso: {'original_samples': 660486, 'train_samples': 528388, 'test_samples': 132098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 146716, 4: 118313, 3: 112396, 2: 102243, 1: 48720}, 'class_distribution_test': {5: 36680, 4: 29578, 3: 28099, 2: 25561, 1: 12180}}
+2025-02-16 15:09:52,240 - INFO - Iniciando procesamiento de: part_MaxAbs_0.parquet
+2025-02-16 15:09:52,240 - ERROR - Error procesando part_MaxAbs_0.parquet: Formato de nombre inválido: part_MaxAbs_0.parquet
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_24320\1513244907.py", line 107, in create_train_test_split
+    raise ValueError(f"Formato de nombre inválido: {file_name}")
+ValueError: Formato de nombre inválido: part_MaxAbs_0.parquet
+2025-02-16 15:09:52,240 - INFO - Iniciando procesamiento de: MinMax_Linear_selected.parquet
+2025-02-16 15:09:54,305 - INFO - Split exitoso: {'original_samples': 660486, 'train_samples': 528388, 'test_samples': 132098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 146716, 4: 118313, 3: 112396, 2: 102243, 1: 48720}, 'class_distribution_test': {5: 36680, 4: 29578, 3: 28099, 2: 25561, 1: 12180}}
+2025-02-16 15:09:54,318 - INFO - Iniciando procesamiento de: MinMax_Model-Based_selected.parquet
+2025-02-16 15:10:04,707 - INFO - Split exitoso: {'original_samples': 660486, 'train_samples': 528388, 'test_samples': 132098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 146716, 4: 118313, 3: 112396, 2: 102243, 1: 48720}, 'class_distribution_test': {5: 36680, 4: 29578, 3: 28099, 2: 25561, 1: 12180}}
+2025-02-16 15:10:04,754 - INFO - Iniciando procesamiento de: MinMax_Nonlinear_selected.parquet
+2025-02-16 15:10:20,846 - INFO - Split exitoso: {'original_samples': 660486, 'train_samples': 528388, 'test_samples': 132098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 146716, 4: 118313, 3: 112396, 2: 102243, 1: 48720}, 'class_distribution_test': {5: 36680, 4: 29578, 3: 28099, 2: 25561, 1: 12180}}
+2025-02-16 15:10:20,950 - INFO - Iniciando procesamiento de: part_MinMax_0.parquet
+2025-02-16 15:10:20,951 - ERROR - Error procesando part_MinMax_0.parquet: Formato de nombre inválido: part_MinMax_0.parquet
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_24320\1513244907.py", line 107, in create_train_test_split
+    raise ValueError(f"Formato de nombre inválido: {file_name}")
+ValueError: Formato de nombre inválido: part_MinMax_0.parquet
+2025-02-16 15:10:20,952 - INFO - Iniciando procesamiento de: NoNorm_Linear_selected.parquet
+2025-02-16 15:10:23,430 - INFO - Split exitoso: {'original_samples': 660486, 'train_samples': 528388, 'test_samples': 132098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 146716, 4: 118313, 3: 112396, 2: 102243, 1: 48720}, 'class_distribution_test': {5: 36680, 4: 29578, 3: 28099, 2: 25561, 1: 12180}}
+2025-02-16 15:10:23,443 - INFO - Iniciando procesamiento de: NoNorm_Model-Based_selected.parquet
+2025-02-16 15:10:33,834 - INFO - Split exitoso: {'original_samples': 660486, 'train_samples': 528388, 'test_samples': 132098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 146716, 4: 118313, 3: 112396, 2: 102243, 1: 48720}, 'class_distribution_test': {5: 36680, 4: 29578, 3: 28099, 2: 25561, 1: 12180}}
+2025-02-16 15:10:33,884 - INFO - Iniciando procesamiento de: NoNorm_Nonlinear_selected.parquet
+2025-02-16 15:10:49,658 - INFO - Split exitoso: {'original_samples': 660486, 'train_samples': 528388, 'test_samples': 132098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 146716, 4: 118313, 3: 112396, 2: 102243, 1: 48720}, 'class_distribution_test': {5: 36680, 4: 29578, 3: 28099, 2: 25561, 1: 12180}}
+2025-02-16 15:10:49,750 - INFO - Iniciando procesamiento de: part_NoNorm_0.parquet
+2025-02-16 15:10:49,751 - ERROR - Error procesando part_NoNorm_0.parquet: Formato de nombre inválido: part_NoNorm_0.parquet
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_24320\1513244907.py", line 107, in create_train_test_split
+    raise ValueError(f"Formato de nombre inválido: {file_name}")
+ValueError: Formato de nombre inválido: part_NoNorm_0.parquet
+2025-02-16 15:10:49,751 - INFO - Iniciando procesamiento de: Robust_Linear_selected.parquet
+2025-02-16 15:10:51,442 - INFO - Split exitoso: {'original_samples': 660486, 'train_samples': 528388, 'test_samples': 132098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 146716, 4: 118313, 3: 112396, 2: 102243, 1: 48720}, 'class_distribution_test': {5: 36680, 4: 29578, 3: 28099, 2: 25561, 1: 12180}}
+2025-02-16 15:10:51,449 - INFO - Iniciando procesamiento de: Robust_Model-Based_selected.parquet
+2025-02-16 15:10:56,353 - INFO - Split exitoso: {'original_samples': 660486, 'train_samples': 528388, 'test_samples': 132098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 146716, 4: 118313, 3: 112396, 2: 102243, 1: 48720}, 'class_distribution_test': {5: 36680, 4: 29578, 3: 28099, 2: 25561, 1: 12180}}
+2025-02-16 15:10:56,384 - INFO - Iniciando procesamiento de: Robust_Nonlinear_selected.parquet
+2025-02-16 15:11:04,685 - INFO - Split exitoso: {'original_samples': 660486, 'train_samples': 528388, 'test_samples': 132098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 146716, 4: 118313, 3: 112396, 2: 102243, 1: 48720}, 'class_distribution_test': {5: 36680, 4: 29578, 3: 28099, 2: 25561, 1: 12180}}
+2025-02-16 15:11:04,743 - INFO - Iniciando procesamiento de: part_Robust_0.parquet
+2025-02-16 15:11:04,743 - ERROR - Error procesando part_Robust_0.parquet: Formato de nombre inválido: part_Robust_0.parquet
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_24320\1513244907.py", line 107, in create_train_test_split
+    raise ValueError(f"Formato de nombre inválido: {file_name}")
+ValueError: Formato de nombre inválido: part_Robust_0.parquet
+2025-02-16 15:11:04,743 - INFO - Iniciando procesamiento de: Standard_Linear_selected.parquet
+2025-02-16 15:11:06,220 - INFO - Split exitoso: {'original_samples': 660486, 'train_samples': 528388, 'test_samples': 132098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 146716, 4: 118313, 3: 112396, 2: 102243, 1: 48720}, 'class_distribution_test': {5: 36680, 4: 29578, 3: 28099, 2: 25561, 1: 12180}}
+2025-02-16 15:11:06,230 - INFO - Iniciando procesamiento de: Standard_Model-Based_selected.parquet
+2025-02-16 15:11:12,421 - INFO - Split exitoso: {'original_samples': 660486, 'train_samples': 528388, 'test_samples': 132098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 146716, 4: 118313, 3: 112396, 2: 102243, 1: 48720}, 'class_distribution_test': {5: 36680, 4: 29578, 3: 28099, 2: 25561, 1: 12180}}
+2025-02-16 15:11:12,454 - INFO - Iniciando procesamiento de: Standard_Nonlinear_selected.parquet
+2025-02-16 15:11:24,667 - INFO - Split exitoso: {'original_samples': 660486, 'train_samples': 528388, 'test_samples': 132098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 146716, 4: 118313, 3: 112396, 2: 102243, 1: 48720}, 'class_distribution_test': {5: 36680, 4: 29578, 3: 28099, 2: 25561, 1: 12180}}
+2025-02-16 15:11:24,732 - INFO - Iniciando procesamiento de: part_Standard_0.parquet
+2025-02-16 15:11:24,732 - ERROR - Error procesando part_Standard_0.parquet: Formato de nombre inválido: part_Standard_0.parquet
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_24320\1513244907.py", line 107, in create_train_test_split
+    raise ValueError(f"Formato de nombre inválido: {file_name}")
+ValueError: Formato de nombre inválido: part_Standard_0.parquet
+2025-02-16 15:11:24,732 - INFO - Proceso finalizado: 15/20 exitosos
+2025-02-16 15:18:48,942 - INFO - Iniciando procesamiento de: MaxAbs_Linear_selected.parquet
+2025-02-16 15:18:48,943 - ERROR - Error procesando MaxAbs_Linear_selected.parquet: Formato de nombre inválido: MaxAbs_Linear_selected.parquet
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_24320\3048061725.py", line 129, in create_train_test_split
+    raise ValueError(f"Formato de nombre inválido: {file_name}")
+ValueError: Formato de nombre inválido: MaxAbs_Linear_selected.parquet
+2025-02-16 15:18:48,943 - INFO - Iniciando procesamiento de: MaxAbs_Model-Based_selected.parquet
+2025-02-16 15:18:48,943 - ERROR - Error procesando MaxAbs_Model-Based_selected.parquet: Formato de nombre inválido: MaxAbs_Model-Based_selected.parquet
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_24320\3048061725.py", line 129, in create_train_test_split
+    raise ValueError(f"Formato de nombre inválido: {file_name}")
+ValueError: Formato de nombre inválido: MaxAbs_Model-Based_selected.parquet
+2025-02-16 15:18:48,944 - INFO - Iniciando procesamiento de: MaxAbs_Nonlinear_selected.parquet
+2025-02-16 15:18:48,944 - ERROR - Error procesando MaxAbs_Nonlinear_selected.parquet: Formato de nombre inválido: MaxAbs_Nonlinear_selected.parquet
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_24320\3048061725.py", line 129, in create_train_test_split
+    raise ValueError(f"Formato de nombre inválido: {file_name}")
+ValueError: Formato de nombre inválido: MaxAbs_Nonlinear_selected.parquet
+2025-02-16 15:18:48,944 - INFO - Iniciando procesamiento de: part_MaxAbs_0.parquet
+2025-02-16 15:25:57,420 - INFO - Iniciando procesamiento de: MaxAbs_Linear_selected.parquet
+2025-02-16 15:25:59,278 - INFO - Split exitoso: {'original_samples': 660486, 'train_samples': 528388, 'test_samples': 132098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 146716, 4: 118313, 3: 112396, 2: 102243, 1: 48720}, 'class_distribution_test': {5: 36680, 4: 29578, 3: 28099, 2: 25561, 1: 12180}}
+2025-02-16 15:25:59,284 - INFO - Iniciando procesamiento de: MaxAbs_Model-Based_selected.parquet
+2025-02-16 15:26:04,523 - INFO - Split exitoso: {'original_samples': 660486, 'train_samples': 528388, 'test_samples': 132098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 146716, 4: 118313, 3: 112396, 2: 102243, 1: 48720}, 'class_distribution_test': {5: 36680, 4: 29578, 3: 28099, 2: 25561, 1: 12180}}
+2025-02-16 15:26:04,560 - INFO - Iniciando procesamiento de: MaxAbs_Nonlinear_selected.parquet
+2025-02-16 15:26:12,490 - INFO - Split exitoso: {'original_samples': 660486, 'train_samples': 528388, 'test_samples': 132098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 146716, 4: 118313, 3: 112396, 2: 102243, 1: 48720}, 'class_distribution_test': {5: 36680, 4: 29578, 3: 28099, 2: 25561, 1: 12180}}
+2025-02-16 15:26:12,548 - INFO - Iniciando procesamiento de: part_MaxAbs_0.parquet
+2025-02-16 15:28:41,329 - INFO - Split exitoso: {'original_samples': 660486, 'train_samples': 528388, 'test_samples': 132098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 146716, 4: 118313, 3: 112396, 2: 102243, 1: 48720}, 'class_distribution_test': {5: 36680, 4: 29578, 3: 28099, 2: 25561, 1: 12180}}
+2025-02-16 15:28:42,332 - INFO - Iniciando procesamiento de: MinMax_Linear_selected.parquet
+2025-02-16 15:28:43,768 - INFO - Split exitoso: {'original_samples': 660486, 'train_samples': 528388, 'test_samples': 132098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 146716, 4: 118313, 3: 112396, 2: 102243, 1: 48720}, 'class_distribution_test': {5: 36680, 4: 29578, 3: 28099, 2: 25561, 1: 12180}}
+2025-02-16 15:28:43,777 - INFO - Iniciando procesamiento de: MinMax_Model-Based_selected.parquet
+2025-02-16 15:28:49,012 - INFO - Split exitoso: {'original_samples': 660486, 'train_samples': 528388, 'test_samples': 132098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 146716, 4: 118313, 3: 112396, 2: 102243, 1: 48720}, 'class_distribution_test': {5: 36680, 4: 29578, 3: 28099, 2: 25561, 1: 12180}}
+2025-02-16 15:28:49,047 - INFO - Iniciando procesamiento de: MinMax_Nonlinear_selected.parquet
+2025-02-16 15:28:57,114 - INFO - Split exitoso: {'original_samples': 660486, 'train_samples': 528388, 'test_samples': 132098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 146716, 4: 118313, 3: 112396, 2: 102243, 1: 48720}, 'class_distribution_test': {5: 36680, 4: 29578, 3: 28099, 2: 25561, 1: 12180}}
+2025-02-16 15:28:57,180 - INFO - Iniciando procesamiento de: part_MinMax_0.parquet
+2025-02-16 15:30:45,708 - INFO - Split exitoso: {'original_samples': 660486, 'train_samples': 528388, 'test_samples': 132098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 146716, 4: 118313, 3: 112396, 2: 102243, 1: 48720}, 'class_distribution_test': {5: 36680, 4: 29578, 3: 28099, 2: 25561, 1: 12180}}
+2025-02-16 15:30:46,854 - INFO - Iniciando procesamiento de: NoNorm_Linear_selected.parquet
+2025-02-16 15:30:48,297 - INFO - Split exitoso: {'original_samples': 660486, 'train_samples': 528388, 'test_samples': 132098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 146716, 4: 118313, 3: 112396, 2: 102243, 1: 48720}, 'class_distribution_test': {5: 36680, 4: 29578, 3: 28099, 2: 25561, 1: 12180}}
+2025-02-16 15:30:48,305 - INFO - Iniciando procesamiento de: NoNorm_Model-Based_selected.parquet
+2025-02-16 15:30:53,737 - INFO - Split exitoso: {'original_samples': 660486, 'train_samples': 528388, 'test_samples': 132098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 146716, 4: 118313, 3: 112396, 2: 102243, 1: 48720}, 'class_distribution_test': {5: 36680, 4: 29578, 3: 28099, 2: 25561, 1: 12180}}
+2025-02-16 15:30:53,770 - INFO - Iniciando procesamiento de: NoNorm_Nonlinear_selected.parquet
+2025-02-16 15:31:02,115 - INFO - Split exitoso: {'original_samples': 660486, 'train_samples': 528388, 'test_samples': 132098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 146716, 4: 118313, 3: 112396, 2: 102243, 1: 48720}, 'class_distribution_test': {5: 36680, 4: 29578, 3: 28099, 2: 25561, 1: 12180}}
+2025-02-16 15:31:02,186 - INFO - Iniciando procesamiento de: part_NoNorm_0.parquet
+2025-02-16 15:32:31,925 - INFO - Split exitoso: {'original_samples': 660486, 'train_samples': 528388, 'test_samples': 132098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 146716, 4: 118313, 3: 112396, 2: 102243, 1: 48720}, 'class_distribution_test': {5: 36680, 4: 29578, 3: 28099, 2: 25561, 1: 12180}}
+2025-02-16 15:32:32,991 - INFO - Iniciando procesamiento de: Robust_Linear_selected.parquet
+2025-02-16 15:32:34,708 - INFO - Split exitoso: {'original_samples': 660486, 'train_samples': 528388, 'test_samples': 132098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 146716, 4: 118313, 3: 112396, 2: 102243, 1: 48720}, 'class_distribution_test': {5: 36680, 4: 29578, 3: 28099, 2: 25561, 1: 12180}}
+2025-02-16 15:32:34,708 - INFO - Iniciando procesamiento de: Robust_Model-Based_selected.parquet
+2025-02-16 15:32:40,155 - INFO - Split exitoso: {'original_samples': 660486, 'train_samples': 528388, 'test_samples': 132098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 146716, 4: 118313, 3: 112396, 2: 102243, 1: 48720}, 'class_distribution_test': {5: 36680, 4: 29578, 3: 28099, 2: 25561, 1: 12180}}
+2025-02-16 15:32:40,185 - INFO - Iniciando procesamiento de: Robust_Nonlinear_selected.parquet
+2025-02-16 15:32:48,877 - INFO - Split exitoso: {'original_samples': 660486, 'train_samples': 528388, 'test_samples': 132098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 146716, 4: 118313, 3: 112396, 2: 102243, 1: 48720}, 'class_distribution_test': {5: 36680, 4: 29578, 3: 28099, 2: 25561, 1: 12180}}
+2025-02-16 15:32:48,931 - INFO - Iniciando procesamiento de: part_Robust_0.parquet
+2025-02-16 15:34:31,819 - INFO - Split exitoso: {'original_samples': 660486, 'train_samples': 528388, 'test_samples': 132098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 146716, 4: 118313, 3: 112396, 2: 102243, 1: 48720}, 'class_distribution_test': {5: 36680, 4: 29578, 3: 28099, 2: 25561, 1: 12180}}
+2025-02-16 15:34:33,016 - INFO - Iniciando procesamiento de: Standard_Linear_selected.parquet
+2025-02-16 15:34:34,781 - INFO - Split exitoso: {'original_samples': 660486, 'train_samples': 528388, 'test_samples': 132098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 146716, 4: 118313, 3: 112396, 2: 102243, 1: 48720}, 'class_distribution_test': {5: 36680, 4: 29578, 3: 28099, 2: 25561, 1: 12180}}
+2025-02-16 15:34:34,795 - INFO - Iniciando procesamiento de: Standard_Model-Based_selected.parquet
+2025-02-16 15:34:40,743 - INFO - Split exitoso: {'original_samples': 660486, 'train_samples': 528388, 'test_samples': 132098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 146716, 4: 118313, 3: 112396, 2: 102243, 1: 48720}, 'class_distribution_test': {5: 36680, 4: 29578, 3: 28099, 2: 25561, 1: 12180}}
+2025-02-16 15:34:40,786 - INFO - Iniciando procesamiento de: Standard_Nonlinear_selected.parquet
+2025-02-16 15:34:49,118 - INFO - Split exitoso: {'original_samples': 660486, 'train_samples': 528388, 'test_samples': 132098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 146716, 4: 118313, 3: 112396, 2: 102243, 1: 48720}, 'class_distribution_test': {5: 36680, 4: 29578, 3: 28099, 2: 25561, 1: 12180}}
+2025-02-16 15:34:49,164 - INFO - Iniciando procesamiento de: part_Standard_0.parquet
+2025-02-16 15:36:46,027 - INFO - Split exitoso: {'original_samples': 660486, 'train_samples': 528388, 'test_samples': 132098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 146716, 4: 118313, 3: 112396, 2: 102243, 1: 48720}, 'class_distribution_test': {5: 36680, 4: 29578, 3: 28099, 2: 25561, 1: 12180}}
+2025-02-16 15:36:47,097 - INFO - Proceso finalizado: 20/20 exitosos
+2025-02-23 19:13:43,932 - INFO - Proceso finalizado: 0/0 exitosos
+2025-02-23 19:19:46,760 - INFO - Proceso finalizado: 0/0 exitosos
+2025-02-23 19:25:27,778 - INFO - Iniciando procesamiento de: MaxAbs_all_features.parquet
+2025-02-23 19:25:27,778 - ERROR - Error procesando MaxAbs_all_features.parquet: Formato de nombre inválido: MaxAbs_all_features.parquet
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_30360\2916313499.py", line 138, in create_train_test_split
+    raise ValueError(f"Formato de nombre inválido: {file_name}")
+ValueError: Formato de nombre inválido: MaxAbs_all_features.parquet
+2025-02-23 19:25:27,778 - INFO - Iniciando procesamiento de: MaxAbs_Linear_selected.parquet
+2025-02-23 19:25:36,127 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-23 19:25:36,197 - INFO - Iniciando procesamiento de: MaxAbs_Model-Based_selected.parquet
+2025-02-23 19:25:40,330 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-23 19:25:40,377 - INFO - Iniciando procesamiento de: MaxAbs_Nonlinear_selected.parquet
+2025-02-23 19:25:48,726 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-23 19:25:48,806 - INFO - Iniciando procesamiento de: MinMax_all_features.parquet
+2025-02-23 19:25:48,806 - ERROR - Error procesando MinMax_all_features.parquet: Formato de nombre inválido: MinMax_all_features.parquet
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_30360\2916313499.py", line 138, in create_train_test_split
+    raise ValueError(f"Formato de nombre inválido: {file_name}")
+ValueError: Formato de nombre inválido: MinMax_all_features.parquet
+2025-02-23 19:25:48,806 - INFO - Iniciando procesamiento de: MinMax_Linear_selected.parquet
+2025-02-23 19:25:56,443 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-23 19:25:56,516 - INFO - Iniciando procesamiento de: MinMax_Model-Based_selected.parquet
+2025-02-23 19:26:00,686 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-23 19:26:00,726 - INFO - Iniciando procesamiento de: MinMax_Nonlinear_selected.parquet
+2025-02-23 19:26:10,880 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-23 19:26:10,973 - INFO - Iniciando procesamiento de: NoNorm_all_features.parquet
+2025-02-23 19:26:10,973 - ERROR - Error procesando NoNorm_all_features.parquet: Formato de nombre inválido: NoNorm_all_features.parquet
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_30360\2916313499.py", line 138, in create_train_test_split
+    raise ValueError(f"Formato de nombre inválido: {file_name}")
+ValueError: Formato de nombre inválido: NoNorm_all_features.parquet
+2025-02-23 19:26:10,973 - INFO - Iniciando procesamiento de: NoNorm_Linear_selected.parquet
+2025-02-23 19:26:19,177 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-23 19:26:19,247 - INFO - Iniciando procesamiento de: NoNorm_Model-Based_selected.parquet
+2025-02-23 19:26:19,923 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-23 19:26:19,931 - INFO - Iniciando procesamiento de: NoNorm_Nonlinear_selected.parquet
+2025-02-23 19:26:28,779 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-23 19:26:28,852 - INFO - Iniciando procesamiento de: Robust_all_features.parquet
+2025-02-23 19:26:28,852 - ERROR - Error procesando Robust_all_features.parquet: Formato de nombre inválido: Robust_all_features.parquet
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_30360\2916313499.py", line 138, in create_train_test_split
+    raise ValueError(f"Formato de nombre inválido: {file_name}")
+ValueError: Formato de nombre inválido: Robust_all_features.parquet
+2025-02-23 19:26:28,852 - INFO - Iniciando procesamiento de: Robust_Linear_selected.parquet
+2025-02-23 19:26:37,314 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-23 19:26:37,398 - INFO - Iniciando procesamiento de: Robust_Model-Based_selected.parquet
+2025-02-23 19:26:38,221 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-23 19:26:38,231 - INFO - Iniciando procesamiento de: Robust_Nonlinear_selected.parquet
+2025-02-23 19:26:48,558 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-23 19:26:48,633 - INFO - Iniciando procesamiento de: Standard_all_features.parquet
+2025-02-23 19:26:48,633 - ERROR - Error procesando Standard_all_features.parquet: Formato de nombre inválido: Standard_all_features.parquet
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_30360\2916313499.py", line 138, in create_train_test_split
+    raise ValueError(f"Formato de nombre inválido: {file_name}")
+ValueError: Formato de nombre inválido: Standard_all_features.parquet
+2025-02-23 19:26:48,649 - INFO - Iniciando procesamiento de: Standard_Linear_selected.parquet
+2025-02-23 19:26:57,825 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-23 19:26:57,909 - INFO - Iniciando procesamiento de: Standard_Model-Based_selected.parquet
+2025-02-23 19:27:02,671 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-23 19:27:02,704 - INFO - Iniciando procesamiento de: Standard_Nonlinear_selected.parquet
+2025-02-23 19:27:12,762 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-23 19:27:12,844 - INFO - Proceso finalizado: 15/20 exitosos
+2025-02-23 19:46:50,625 - INFO - Iniciando procesamiento de: MaxAbs_all_features.parquet
+2025-02-23 19:47:55,169 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-23 19:47:55,735 - INFO - Iniciando procesamiento de: MaxAbs_Linear_selected.parquet
+2025-02-23 19:48:10,268 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-23 19:48:10,337 - INFO - Iniciando procesamiento de: MaxAbs_Model-Based_selected.parquet
+2025-02-23 19:48:14,397 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-23 19:48:14,441 - INFO - Iniciando procesamiento de: MaxAbs_Nonlinear_selected.parquet
+2025-02-23 19:48:28,777 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-23 19:48:28,891 - INFO - Iniciando procesamiento de: MinMax_all_features.parquet
+2025-02-23 19:49:42,151 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-23 19:49:42,781 - INFO - Iniciando procesamiento de: MinMax_Linear_selected.parquet
+2025-02-23 19:49:58,043 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-23 19:49:58,201 - INFO - Iniciando procesamiento de: MinMax_Model-Based_selected.parquet
+2025-02-23 19:50:06,835 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-23 19:50:06,921 - INFO - Iniciando procesamiento de: MinMax_Nonlinear_selected.parquet
+2025-02-23 19:50:23,435 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-23 19:50:23,577 - INFO - Iniciando procesamiento de: NoNorm_all_features.parquet
+2025-02-23 19:51:43,472 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-23 19:51:44,056 - INFO - Iniciando procesamiento de: NoNorm_Linear_selected.parquet
+2025-02-23 19:51:58,947 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-23 19:51:59,061 - INFO - Iniciando procesamiento de: NoNorm_Model-Based_selected.parquet
+2025-02-23 19:52:00,306 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-23 19:52:00,307 - INFO - Iniciando procesamiento de: NoNorm_Nonlinear_selected.parquet
+2025-02-23 19:52:17,159 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-23 19:52:17,298 - INFO - Iniciando procesamiento de: Robust_all_features.parquet
+2025-02-23 19:53:44,882 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-23 19:53:45,493 - INFO - Iniciando procesamiento de: Robust_Linear_selected.parquet
+2025-02-23 19:54:00,585 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-23 19:54:00,694 - INFO - Iniciando procesamiento de: Robust_Model-Based_selected.parquet
+2025-02-23 19:54:01,929 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-23 19:54:01,945 - INFO - Iniciando procesamiento de: Robust_Nonlinear_selected.parquet
+2025-02-23 19:54:18,344 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-23 19:54:18,515 - INFO - Iniciando procesamiento de: Standard_all_features.parquet
+2025-02-23 19:55:31,713 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-23 19:55:32,350 - INFO - Iniciando procesamiento de: Standard_Linear_selected.parquet
+2025-02-23 19:55:48,260 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-23 19:55:48,397 - INFO - Iniciando procesamiento de: Standard_Model-Based_selected.parquet
+2025-02-23 19:55:58,956 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-23 19:55:59,046 - INFO - Iniciando procesamiento de: Standard_Nonlinear_selected.parquet
+2025-02-23 19:56:19,997 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-23 19:56:20,166 - INFO - Proceso finalizado: 20/20 exitosos
+2025-02-24 01:23:42,622 - INFO - Iniciando procesamiento de: MaxAbs_all_features.parquet
+2025-02-24 01:24:23,367 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:24:23,783 - INFO - Iniciando procesamiento de: MaxAbs_Linear_selected.parquet
+2025-02-24 01:24:31,577 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:24:31,669 - INFO - Iniciando procesamiento de: MaxAbs_Model-Based_selected.parquet
+2025-02-24 01:24:35,939 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:24:35,992 - INFO - Iniciando procesamiento de: MaxAbs_Nonlinear_selected.parquet
+2025-02-24 01:24:44,735 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:24:44,831 - INFO - Iniciando procesamiento de: MinMax_all_features.parquet
+2025-02-24 01:25:56,417 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:25:56,827 - INFO - Iniciando procesamiento de: MinMax_Linear_selected.parquet
+2025-02-24 01:26:04,602 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:26:04,677 - INFO - Iniciando procesamiento de: MinMax_Model-Based_selected.parquet
+2025-02-24 01:26:08,448 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:26:08,486 - INFO - Iniciando procesamiento de: MinMax_Nonlinear_selected.parquet
+2025-02-24 01:26:16,992 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:26:17,094 - INFO - Iniciando procesamiento de: NoNorm_all_features.parquet
+2025-02-24 01:26:56,061 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:26:56,425 - INFO - Iniciando procesamiento de: NoNorm_Linear_selected.parquet
+2025-02-24 01:27:04,717 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:27:04,783 - INFO - Iniciando procesamiento de: NoNorm_Model-Based_selected.parquet
+2025-02-24 01:27:05,512 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:27:05,516 - INFO - Iniciando procesamiento de: NoNorm_Nonlinear_selected.parquet
+2025-02-24 01:27:14,425 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:27:14,508 - INFO - Iniciando procesamiento de: Robust_all_features.parquet
+2025-02-24 01:28:08,224 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:28:08,872 - INFO - Iniciando procesamiento de: Robust_Linear_selected.parquet
+2025-02-24 01:28:24,860 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:28:24,952 - INFO - Iniciando procesamiento de: Robust_Model-Based_selected.parquet
+2025-02-24 01:28:26,408 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:28:26,424 - INFO - Iniciando procesamiento de: Robust_Nonlinear_selected.parquet
+2025-02-24 01:28:42,892 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:28:43,065 - INFO - Iniciando procesamiento de: Standard_all_features.parquet
+2025-02-24 01:29:31,713 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:29:32,158 - INFO - Iniciando procesamiento de: Standard_Linear_selected.parquet
+2025-02-24 01:29:41,485 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:29:41,554 - INFO - Iniciando procesamiento de: Standard_Model-Based_selected.parquet
+2025-02-24 01:29:45,933 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:29:45,983 - INFO - Iniciando procesamiento de: Standard_Nonlinear_selected.parquet
+2025-02-24 01:29:54,760 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:29:54,828 - INFO - Proceso finalizado: 20/20 exitosos
+2025-02-24 01:30:33,957 - INFO - Iniciando procesamiento de: MaxAbs_all_features.parquet
+2025-02-24 01:31:20,150 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:31:20,745 - INFO - Iniciando procesamiento de: MaxAbs_Linear_selected.parquet
+2025-02-24 01:31:36,397 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:31:36,547 - INFO - Iniciando procesamiento de: MaxAbs_Model-Based_selected.parquet
+2025-02-24 01:31:44,965 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:31:45,039 - INFO - Iniciando procesamiento de: MaxAbs_Nonlinear_selected.parquet
+2025-02-24 01:32:01,107 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:32:01,240 - INFO - Iniciando procesamiento de: MinMax_all_features.parquet
+2025-02-24 01:33:06,846 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:33:07,426 - INFO - Iniciando procesamiento de: MinMax_Linear_selected.parquet
+2025-02-24 01:33:23,147 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:33:23,297 - INFO - Iniciando procesamiento de: MinMax_Model-Based_selected.parquet
+2025-02-24 01:33:31,256 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:33:31,343 - INFO - Iniciando procesamiento de: MinMax_Nonlinear_selected.parquet
+2025-02-24 01:33:48,287 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:33:48,407 - INFO - Iniciando procesamiento de: NoNorm_all_features.parquet
+2025-02-24 01:34:53,763 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:34:54,329 - INFO - Iniciando procesamiento de: NoNorm_Linear_selected.parquet
+2025-02-24 01:35:10,864 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:35:10,997 - INFO - Iniciando procesamiento de: NoNorm_Model-Based_selected.parquet
+2025-02-24 01:35:12,345 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:35:12,362 - INFO - Iniciando procesamiento de: NoNorm_Nonlinear_selected.parquet
+2025-02-24 01:35:28,718 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:35:28,857 - INFO - Iniciando procesamiento de: Robust_all_features.parquet
+2025-02-24 01:36:35,027 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:36:35,670 - INFO - Iniciando procesamiento de: Robust_Linear_selected.parquet
+2025-02-24 01:36:51,203 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:36:51,359 - INFO - Iniciando procesamiento de: Robust_Model-Based_selected.parquet
+2025-02-24 01:36:52,678 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:36:52,690 - INFO - Iniciando procesamiento de: Robust_Nonlinear_selected.parquet
+2025-02-24 01:37:09,187 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:37:09,303 - INFO - Iniciando procesamiento de: Standard_all_features.parquet
+2025-02-24 01:38:21,857 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:38:22,490 - INFO - Iniciando procesamiento de: Standard_Linear_selected.parquet
+2025-02-24 01:38:37,624 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:38:37,750 - INFO - Iniciando procesamiento de: Standard_Model-Based_selected.parquet
+2025-02-24 01:38:46,526 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:38:46,609 - INFO - Iniciando procesamiento de: Standard_Nonlinear_selected.parquet
+2025-02-24 01:39:02,864 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:39:02,980 - INFO - Proceso finalizado: 20/20 exitosos
+2025-02-24 01:50:19,803 - INFO - Iniciando procesamiento de: MaxAbs_all_features.parquet
+2025-02-24 01:51:13,490 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:51:14,148 - INFO - Iniciando procesamiento de: MaxAbs_Linear_selected.parquet
+2025-02-24 01:51:29,822 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:51:30,034 - INFO - Iniciando procesamiento de: MaxAbs_Model-Based_selected.parquet
+2025-02-24 01:51:38,244 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:51:38,327 - INFO - Iniciando procesamiento de: MaxAbs_Nonlinear_selected.parquet
+2025-02-24 01:51:54,643 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:51:54,810 - INFO - Iniciando procesamiento de: MinMax_all_features.parquet
+2025-02-24 01:53:03,484 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:53:03,846 - INFO - Iniciando procesamiento de: MinMax_Linear_selected.parquet
+2025-02-24 01:53:12,404 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:53:12,472 - INFO - Iniciando procesamiento de: MinMax_Model-Based_selected.parquet
+2025-02-24 01:53:17,055 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:53:17,103 - INFO - Iniciando procesamiento de: MinMax_Nonlinear_selected.parquet
+2025-02-24 01:53:27,115 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:53:27,191 - INFO - Iniciando procesamiento de: NoNorm_all_features.parquet
+2025-02-24 01:54:07,336 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:54:07,736 - INFO - Iniciando procesamiento de: NoNorm_Linear_selected.parquet
+2025-02-24 01:54:15,662 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:54:15,733 - INFO - Iniciando procesamiento de: NoNorm_Model-Based_selected.parquet
+2025-02-24 01:54:16,444 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:54:16,444 - INFO - Iniciando procesamiento de: NoNorm_Nonlinear_selected.parquet
+2025-02-24 01:54:25,240 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:54:25,325 - INFO - Iniciando procesamiento de: Robust_all_features.parquet
+2025-02-24 01:55:18,571 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:55:19,120 - INFO - Iniciando procesamiento de: Robust_Linear_selected.parquet
+2025-02-24 01:55:32,560 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:55:32,627 - INFO - Iniciando procesamiento de: Robust_Model-Based_selected.parquet
+2025-02-24 01:55:33,432 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:55:33,437 - INFO - Iniciando procesamiento de: Robust_Nonlinear_selected.parquet
+2025-02-24 01:55:42,048 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:55:42,114 - INFO - Iniciando procesamiento de: Standard_all_features.parquet
+2025-02-24 01:56:24,009 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:56:24,408 - INFO - Iniciando procesamiento de: Standard_Linear_selected.parquet
+2025-02-24 01:56:33,667 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:56:33,750 - INFO - Iniciando procesamiento de: Standard_Model-Based_selected.parquet
+2025-02-24 01:56:38,592 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:56:38,629 - INFO - Iniciando procesamiento de: Standard_Nonlinear_selected.parquet
+2025-02-24 01:56:48,719 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 448388, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {5: 124361, 4: 100161, 3: 95370, 2: 86994, 1: 41502}, 'class_distribution_test': {5: 31091, 4: 25040, 3: 23843, 2: 21748, 1: 10376}}
+2025-02-24 01:56:48,799 - INFO - Proceso finalizado: 20/20 exitosos
+2025-02-24 17:00:37,178 - INFO - Iniciando procesamiento de: MaxAbs_all_features.parquet
+2025-02-24 17:00:52,159 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:00:52,167 - ERROR - Error procesando MaxAbs_all_features.parquet: Clases con menos de 25000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\3122796653.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\3122796653.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 25000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:00:52,494 - INFO - Iniciando procesamiento de: MaxAbs_Linear_selected.parquet
+2025-02-24 17:00:54,666 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:00:54,667 - ERROR - Error procesando MaxAbs_Linear_selected.parquet: Clases con menos de 25000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\3122796653.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\3122796653.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 25000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:00:54,733 - INFO - Iniciando procesamiento de: MaxAbs_Model-Based_selected.parquet
+2025-02-24 17:00:55,771 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:00:55,772 - ERROR - Error procesando MaxAbs_Model-Based_selected.parquet: Clases con menos de 25000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\3122796653.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\3122796653.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 25000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:00:55,799 - INFO - Iniciando procesamiento de: MaxAbs_Nonlinear_selected.parquet
+2025-02-24 17:00:57,980 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:00:57,980 - ERROR - Error procesando MaxAbs_Nonlinear_selected.parquet: Clases con menos de 25000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\3122796653.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\3122796653.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 25000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:00:58,052 - INFO - Iniciando procesamiento de: MinMax_all_features.parquet
+2025-02-24 17:01:05,479 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:01:05,480 - ERROR - Error procesando MinMax_all_features.parquet: Clases con menos de 25000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\3122796653.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\3122796653.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 25000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:01:05,741 - INFO - Iniciando procesamiento de: MinMax_Linear_selected.parquet
+2025-02-24 17:01:07,644 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:01:07,644 - ERROR - Error procesando MinMax_Linear_selected.parquet: Clases con menos de 25000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\3122796653.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\3122796653.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 25000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:01:07,701 - INFO - Iniciando procesamiento de: MinMax_Model-Based_selected.parquet
+2025-02-24 17:01:08,635 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:01:08,636 - ERROR - Error procesando MinMax_Model-Based_selected.parquet: Clases con menos de 25000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\3122796653.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\3122796653.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 25000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:01:08,667 - INFO - Iniciando procesamiento de: MinMax_Nonlinear_selected.parquet
+2025-02-24 17:01:10,673 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:01:10,673 - ERROR - Error procesando MinMax_Nonlinear_selected.parquet: Clases con menos de 25000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\3122796653.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\3122796653.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 25000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:01:10,736 - INFO - Iniciando procesamiento de: NoNorm_all_features.parquet
+2025-02-24 17:01:17,637 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:01:17,637 - ERROR - Error procesando NoNorm_all_features.parquet: Clases con menos de 25000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\3122796653.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\3122796653.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 25000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:01:17,953 - INFO - Iniciando procesamiento de: NoNorm_Linear_selected.parquet
+2025-02-24 17:01:19,870 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:01:19,870 - ERROR - Error procesando NoNorm_Linear_selected.parquet: Clases con menos de 25000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\3122796653.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\3122796653.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 25000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:01:19,935 - INFO - Iniciando procesamiento de: NoNorm_Model-Based_selected.parquet
+2025-02-24 17:01:20,082 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:01:20,082 - ERROR - Error procesando NoNorm_Model-Based_selected.parquet: Clases con menos de 25000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\3122796653.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\3122796653.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 25000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:01:20,088 - INFO - Iniciando procesamiento de: NoNorm_Nonlinear_selected.parquet
+2025-02-24 17:01:22,114 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:01:22,115 - ERROR - Error procesando NoNorm_Nonlinear_selected.parquet: Clases con menos de 25000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\3122796653.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\3122796653.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 25000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:01:22,175 - INFO - Iniciando procesamiento de: Robust_all_features.parquet
+2025-02-24 17:01:29,649 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:01:29,649 - ERROR - Error procesando Robust_all_features.parquet: Clases con menos de 25000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\3122796653.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\3122796653.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 25000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:01:29,973 - INFO - Iniciando procesamiento de: Robust_Linear_selected.parquet
+2025-02-24 17:01:31,947 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:01:31,948 - ERROR - Error procesando Robust_Linear_selected.parquet: Clases con menos de 25000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\3122796653.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\3122796653.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 25000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:01:32,015 - INFO - Iniciando procesamiento de: Robust_Model-Based_selected.parquet
+2025-02-24 17:01:32,170 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:01:32,170 - ERROR - Error procesando Robust_Model-Based_selected.parquet: Clases con menos de 25000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\3122796653.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\3122796653.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 25000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:01:32,175 - INFO - Iniciando procesamiento de: Robust_Nonlinear_selected.parquet
+2025-02-24 17:01:34,276 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:01:34,276 - ERROR - Error procesando Robust_Nonlinear_selected.parquet: Clases con menos de 25000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\3122796653.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\3122796653.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 25000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:01:34,354 - INFO - Iniciando procesamiento de: Standard_all_features.parquet
+2025-02-24 17:01:41,334 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:01:41,334 - ERROR - Error procesando Standard_all_features.parquet: Clases con menos de 25000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\3122796653.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\3122796653.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 25000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:01:41,617 - INFO - Iniciando procesamiento de: Standard_Linear_selected.parquet
+2025-02-24 17:01:43,797 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:01:43,797 - ERROR - Error procesando Standard_Linear_selected.parquet: Clases con menos de 25000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\3122796653.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\3122796653.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 25000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:01:43,863 - INFO - Iniciando procesamiento de: Standard_Model-Based_selected.parquet
+2025-02-24 17:01:44,891 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:01:44,891 - ERROR - Error procesando Standard_Model-Based_selected.parquet: Clases con menos de 25000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\3122796653.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\3122796653.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 25000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:01:44,923 - INFO - Iniciando procesamiento de: Standard_Nonlinear_selected.parquet
+2025-02-24 17:01:47,040 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:01:47,041 - ERROR - Error procesando Standard_Nonlinear_selected.parquet: Clases con menos de 25000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\3122796653.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\3122796653.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 25000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:01:47,097 - INFO - Proceso finalizado: 0/20 exitosos
+2025-02-24 17:02:56,299 - INFO - Iniciando procesamiento de: MaxAbs_all_features.parquet
+2025-02-24 17:03:02,431 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:03:02,433 - ERROR - Error procesando MaxAbs_all_features.parquet: Clases con menos de 20000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2147078059.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2147078059.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 20000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:03:02,680 - INFO - Iniciando procesamiento de: MaxAbs_Linear_selected.parquet
+2025-02-24 17:03:04,488 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:03:04,488 - ERROR - Error procesando MaxAbs_Linear_selected.parquet: Clases con menos de 20000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2147078059.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2147078059.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 20000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:03:04,547 - INFO - Iniciando procesamiento de: MaxAbs_Model-Based_selected.parquet
+2025-02-24 17:03:05,490 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:03:05,491 - ERROR - Error procesando MaxAbs_Model-Based_selected.parquet: Clases con menos de 20000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2147078059.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2147078059.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 20000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:03:05,523 - INFO - Iniciando procesamiento de: MaxAbs_Nonlinear_selected.parquet
+2025-02-24 17:03:07,380 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:03:07,380 - ERROR - Error procesando MaxAbs_Nonlinear_selected.parquet: Clases con menos de 20000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2147078059.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2147078059.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 20000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:03:07,441 - INFO - Iniciando procesamiento de: MinMax_all_features.parquet
+2025-02-24 17:03:13,385 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:03:13,385 - ERROR - Error procesando MinMax_all_features.parquet: Clases con menos de 20000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2147078059.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2147078059.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 20000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:03:13,669 - INFO - Iniciando procesamiento de: MinMax_Linear_selected.parquet
+2025-02-24 17:03:15,457 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:03:15,457 - ERROR - Error procesando MinMax_Linear_selected.parquet: Clases con menos de 20000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2147078059.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2147078059.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 20000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:03:15,513 - INFO - Iniciando procesamiento de: MinMax_Model-Based_selected.parquet
+2025-02-24 17:03:16,411 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:03:16,411 - ERROR - Error procesando MinMax_Model-Based_selected.parquet: Clases con menos de 20000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2147078059.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2147078059.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 20000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:03:16,447 - INFO - Iniciando procesamiento de: MinMax_Nonlinear_selected.parquet
+2025-02-24 17:03:18,836 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:03:18,836 - ERROR - Error procesando MinMax_Nonlinear_selected.parquet: Clases con menos de 20000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2147078059.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2147078059.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 20000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:03:18,898 - INFO - Iniciando procesamiento de: NoNorm_all_features.parquet
+2025-02-24 17:03:24,992 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:03:24,992 - ERROR - Error procesando NoNorm_all_features.parquet: Clases con menos de 20000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2147078059.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2147078059.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 20000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:03:25,305 - INFO - Iniciando procesamiento de: NoNorm_Linear_selected.parquet
+2025-02-24 17:03:27,060 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:03:27,060 - ERROR - Error procesando NoNorm_Linear_selected.parquet: Clases con menos de 20000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2147078059.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2147078059.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 20000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:03:27,111 - INFO - Iniciando procesamiento de: NoNorm_Model-Based_selected.parquet
+2025-02-24 17:03:27,233 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:03:27,233 - ERROR - Error procesando NoNorm_Model-Based_selected.parquet: Clases con menos de 20000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2147078059.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2147078059.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 20000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:03:27,236 - INFO - Iniciando procesamiento de: NoNorm_Nonlinear_selected.parquet
+2025-02-24 17:03:29,133 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:03:29,133 - ERROR - Error procesando NoNorm_Nonlinear_selected.parquet: Clases con menos de 20000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2147078059.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2147078059.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 20000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:03:29,185 - INFO - Iniciando procesamiento de: Robust_all_features.parquet
+2025-02-24 17:03:35,212 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:03:35,213 - ERROR - Error procesando Robust_all_features.parquet: Clases con menos de 20000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2147078059.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2147078059.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 20000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:03:35,456 - INFO - Iniciando procesamiento de: Robust_Linear_selected.parquet
+2025-02-24 17:03:37,225 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:03:37,226 - ERROR - Error procesando Robust_Linear_selected.parquet: Clases con menos de 20000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2147078059.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2147078059.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 20000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:03:37,275 - INFO - Iniciando procesamiento de: Robust_Model-Based_selected.parquet
+2025-02-24 17:03:37,429 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:03:37,429 - ERROR - Error procesando Robust_Model-Based_selected.parquet: Clases con menos de 20000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2147078059.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2147078059.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 20000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:03:37,432 - INFO - Iniciando procesamiento de: Robust_Nonlinear_selected.parquet
+2025-02-24 17:03:39,262 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:03:39,262 - ERROR - Error procesando Robust_Nonlinear_selected.parquet: Clases con menos de 20000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2147078059.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2147078059.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 20000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:03:39,315 - INFO - Iniciando procesamiento de: Standard_all_features.parquet
+2025-02-24 17:03:45,686 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:03:45,686 - ERROR - Error procesando Standard_all_features.parquet: Clases con menos de 20000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2147078059.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2147078059.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 20000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:03:45,965 - INFO - Iniciando procesamiento de: Standard_Linear_selected.parquet
+2025-02-24 17:03:47,682 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:03:47,682 - ERROR - Error procesando Standard_Linear_selected.parquet: Clases con menos de 20000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2147078059.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2147078059.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 20000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:03:47,732 - INFO - Iniciando procesamiento de: Standard_Model-Based_selected.parquet
+2025-02-24 17:03:48,613 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:03:48,613 - ERROR - Error procesando Standard_Model-Based_selected.parquet: Clases con menos de 20000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2147078059.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2147078059.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 20000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:03:48,640 - INFO - Iniciando procesamiento de: Standard_Nonlinear_selected.parquet
+2025-02-24 17:03:50,528 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:03:50,528 - ERROR - Error procesando Standard_Nonlinear_selected.parquet: Clases con menos de 20000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2147078059.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2147078059.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 20000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:03:50,580 - INFO - Proceso finalizado: 0/20 exitosos
+2025-02-24 17:06:12,365 - INFO - Iniciando procesamiento de: MaxAbs_all_features.parquet
+2025-02-24 17:06:18,537 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:06:18,537 - ERROR - Error procesando MaxAbs_all_features.parquet: Clases con menos de 10000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\1386108617.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\1386108617.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 10000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:06:18,782 - INFO - Iniciando procesamiento de: MaxAbs_Linear_selected.parquet
+2025-02-24 17:06:20,578 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:06:20,578 - ERROR - Error procesando MaxAbs_Linear_selected.parquet: Clases con menos de 10000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\1386108617.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\1386108617.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 10000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:06:20,629 - INFO - Iniciando procesamiento de: MaxAbs_Model-Based_selected.parquet
+2025-02-24 17:06:21,552 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:06:21,553 - ERROR - Error procesando MaxAbs_Model-Based_selected.parquet: Clases con menos de 10000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\1386108617.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\1386108617.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 10000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:06:21,580 - INFO - Iniciando procesamiento de: MaxAbs_Nonlinear_selected.parquet
+2025-02-24 17:06:23,407 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:06:23,408 - ERROR - Error procesando MaxAbs_Nonlinear_selected.parquet: Clases con menos de 10000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\1386108617.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\1386108617.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 10000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:06:23,468 - INFO - Iniciando procesamiento de: MinMax_all_features.parquet
+2025-02-24 17:06:29,446 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:06:29,446 - ERROR - Error procesando MinMax_all_features.parquet: Clases con menos de 10000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\1386108617.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\1386108617.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 10000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:06:29,682 - INFO - Iniciando procesamiento de: MinMax_Linear_selected.parquet
+2025-02-24 17:06:31,444 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:06:31,444 - ERROR - Error procesando MinMax_Linear_selected.parquet: Clases con menos de 10000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\1386108617.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\1386108617.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 10000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:06:31,492 - INFO - Iniciando procesamiento de: MinMax_Model-Based_selected.parquet
+2025-02-24 17:06:32,347 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:06:32,347 - ERROR - Error procesando MinMax_Model-Based_selected.parquet: Clases con menos de 10000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\1386108617.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\1386108617.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 10000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:06:32,372 - INFO - Iniciando procesamiento de: MinMax_Nonlinear_selected.parquet
+2025-02-24 17:06:34,200 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:06:34,200 - ERROR - Error procesando MinMax_Nonlinear_selected.parquet: Clases con menos de 10000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\1386108617.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\1386108617.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 10000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:06:34,254 - INFO - Iniciando procesamiento de: NoNorm_all_features.parquet
+2025-02-24 17:06:40,519 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:06:40,520 - ERROR - Error procesando NoNorm_all_features.parquet: Clases con menos de 10000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\1386108617.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\1386108617.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 10000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:06:40,761 - INFO - Iniciando procesamiento de: NoNorm_Linear_selected.parquet
+2025-02-24 17:06:42,497 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:06:42,497 - ERROR - Error procesando NoNorm_Linear_selected.parquet: Clases con menos de 10000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\1386108617.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\1386108617.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 10000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:06:42,546 - INFO - Iniciando procesamiento de: NoNorm_Model-Based_selected.parquet
+2025-02-24 17:06:42,679 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:06:42,679 - ERROR - Error procesando NoNorm_Model-Based_selected.parquet: Clases con menos de 10000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\1386108617.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\1386108617.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 10000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:06:42,683 - INFO - Iniciando procesamiento de: NoNorm_Nonlinear_selected.parquet
+2025-02-24 17:06:44,523 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:06:44,523 - ERROR - Error procesando NoNorm_Nonlinear_selected.parquet: Clases con menos de 10000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\1386108617.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\1386108617.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 10000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:06:44,575 - INFO - Iniciando procesamiento de: Robust_all_features.parquet
+2025-02-24 17:06:50,559 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:06:50,559 - ERROR - Error procesando Robust_all_features.parquet: Clases con menos de 10000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\1386108617.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\1386108617.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 10000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:06:50,799 - INFO - Iniciando procesamiento de: Robust_Linear_selected.parquet
+2025-02-24 17:06:52,622 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:06:52,623 - ERROR - Error procesando Robust_Linear_selected.parquet: Clases con menos de 10000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\1386108617.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\1386108617.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 10000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:06:52,671 - INFO - Iniciando procesamiento de: Robust_Model-Based_selected.parquet
+2025-02-24 17:06:52,821 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:06:52,822 - ERROR - Error procesando Robust_Model-Based_selected.parquet: Clases con menos de 10000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\1386108617.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\1386108617.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 10000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:06:52,826 - INFO - Iniciando procesamiento de: Robust_Nonlinear_selected.parquet
+2025-02-24 17:06:54,655 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:06:54,655 - ERROR - Error procesando Robust_Nonlinear_selected.parquet: Clases con menos de 10000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\1386108617.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\1386108617.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 10000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:06:54,710 - INFO - Iniciando procesamiento de: Standard_all_features.parquet
+2025-02-24 17:07:01,121 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:07:01,121 - ERROR - Error procesando Standard_all_features.parquet: Clases con menos de 10000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\1386108617.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\1386108617.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 10000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:07:01,368 - INFO - Iniciando procesamiento de: Standard_Linear_selected.parquet
+2025-02-24 17:07:03,115 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:07:03,115 - ERROR - Error procesando Standard_Linear_selected.parquet: Clases con menos de 10000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\1386108617.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\1386108617.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 10000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:07:03,172 - INFO - Iniciando procesamiento de: Standard_Model-Based_selected.parquet
+2025-02-24 17:07:04,067 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:07:04,067 - ERROR - Error procesando Standard_Model-Based_selected.parquet: Clases con menos de 10000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\1386108617.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\1386108617.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 10000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:07:04,098 - INFO - Iniciando procesamiento de: Standard_Nonlinear_selected.parquet
+2025-02-24 17:07:05,959 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:07:05,960 - ERROR - Error procesando Standard_Nonlinear_selected.parquet: Clases con menos de 10000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\1386108617.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\1386108617.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 10000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:07:06,012 - INFO - Proceso finalizado: 0/20 exitosos
+2025-02-24 17:07:55,200 - INFO - Iniciando procesamiento de: MaxAbs_all_features.parquet
+2025-02-24 17:08:01,377 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:08:01,377 - ERROR - Error procesando MaxAbs_all_features.parquet: Clases con menos de 5000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2232296203.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2232296203.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 5000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:08:01,616 - INFO - Iniciando procesamiento de: MaxAbs_Linear_selected.parquet
+2025-02-24 17:08:03,437 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:08:03,437 - ERROR - Error procesando MaxAbs_Linear_selected.parquet: Clases con menos de 5000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2232296203.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2232296203.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 5000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:08:03,488 - INFO - Iniciando procesamiento de: MaxAbs_Model-Based_selected.parquet
+2025-02-24 17:08:04,609 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:08:04,609 - ERROR - Error procesando MaxAbs_Model-Based_selected.parquet: Clases con menos de 5000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2232296203.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2232296203.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 5000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:08:04,643 - INFO - Iniciando procesamiento de: MaxAbs_Nonlinear_selected.parquet
+2025-02-24 17:08:06,697 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:08:06,697 - ERROR - Error procesando MaxAbs_Nonlinear_selected.parquet: Clases con menos de 5000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2232296203.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2232296203.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 5000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:08:06,752 - INFO - Iniciando procesamiento de: MinMax_all_features.parquet
+2025-02-24 17:08:12,832 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:08:12,832 - ERROR - Error procesando MinMax_all_features.parquet: Clases con menos de 5000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2232296203.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2232296203.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 5000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:08:13,116 - INFO - Iniciando procesamiento de: MinMax_Linear_selected.parquet
+2025-02-24 17:08:14,843 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:08:14,843 - ERROR - Error procesando MinMax_Linear_selected.parquet: Clases con menos de 5000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2232296203.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2232296203.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 5000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:08:14,897 - INFO - Iniciando procesamiento de: MinMax_Model-Based_selected.parquet
+2025-02-24 17:08:15,746 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:08:15,746 - ERROR - Error procesando MinMax_Model-Based_selected.parquet: Clases con menos de 5000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2232296203.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2232296203.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 5000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:08:15,772 - INFO - Iniciando procesamiento de: MinMax_Nonlinear_selected.parquet
+2025-02-24 17:08:17,655 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:08:17,655 - ERROR - Error procesando MinMax_Nonlinear_selected.parquet: Clases con menos de 5000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2232296203.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2232296203.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 5000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:08:17,710 - INFO - Iniciando procesamiento de: NoNorm_all_features.parquet
+2025-02-24 17:08:24,065 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:08:24,065 - ERROR - Error procesando NoNorm_all_features.parquet: Clases con menos de 5000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2232296203.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2232296203.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 5000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:08:24,318 - INFO - Iniciando procesamiento de: NoNorm_Linear_selected.parquet
+2025-02-24 17:08:26,355 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:08:26,355 - ERROR - Error procesando NoNorm_Linear_selected.parquet: Clases con menos de 5000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2232296203.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2232296203.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 5000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:08:26,415 - INFO - Iniciando procesamiento de: NoNorm_Model-Based_selected.parquet
+2025-02-24 17:08:26,556 - INFO - Distribución de clases en el dataset: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:08:26,556 - ERROR - Error procesando NoNorm_Model-Based_selected.parquet: Clases con menos de 5000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2232296203.py", line 183, in create_train_test_split
+    validate_data_structure(df)
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2232296203.py", line 85, in validate_data_structure
+    raise ValueError(
+ValueError: Clases con menos de 5000 muestras: {5: 0.27735215509397204, 4: 0.22337935291871697, 3: 0.21269576760168854, 2: 0.19401376662396563, 1: 0.09255895776165685}
+2025-02-24 17:08:26,562 - INFO - Iniciando procesamiento de: NoNorm_Nonlinear_selected.parquet
+2025-02-24 22:17:33,142 - INFO - Iniciando procesamiento de: MaxAbs_all_features.parquet
+2025-02-24 22:17:43,993 - INFO - Número de filas cargadas: 560486
+2025-02-24 22:17:44,112 - INFO - Distribución de clases en el dataset: {5: 155452, 4: 125201, 3: 119213, 2: 108742, 1: 51878}
+2025-02-24 22:36:31,980 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 621808, 'test_samples': 155452, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {3: 0.20000064328538714, 2: 0.20000064328538714, 5: 0.20000064328538714, 1: 0.1999990350719193, 4: 0.1999990350719193}, 'class_distribution_test': {4: 0.20000385971232276, 1: 0.20000385971232276, 5: 0.19999742685845148, 3: 0.19999742685845148, 2: 0.19999742685845148}}
+2025-02-24 22:36:32,773 - INFO - Iniciando procesamiento de: MaxAbs_Linear_selected.parquet
+2025-02-24 22:36:33,829 - INFO - Número de filas cargadas: 560486
+2025-02-24 22:36:33,841 - INFO - Distribución de clases en el dataset: {5: 155452, 4: 125201, 3: 119213, 2: 108742, 1: 51878}
+2025-02-24 22:41:52,608 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 621808, 'test_samples': 155452, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {3: 0.20000064328538714, 2: 0.20000064328538714, 5: 0.20000064328538714, 1: 0.1999990350719193, 4: 0.1999990350719193}, 'class_distribution_test': {4: 0.20000385971232276, 1: 0.20000385971232276, 5: 0.19999742685845148, 3: 0.19999742685845148, 2: 0.19999742685845148}}
+2025-02-24 22:41:52,830 - INFO - Iniciando procesamiento de: MaxAbs_Model-Based_selected.parquet
+2025-02-24 22:41:53,158 - INFO - Número de filas cargadas: 560486
+2025-02-24 22:41:53,167 - INFO - Distribución de clases en el dataset: {5: 155452, 4: 125201, 3: 119213, 2: 108742, 1: 51878}
+2025-02-24 22:45:30,611 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 621808, 'test_samples': 155452, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {3: 0.20000064328538714, 2: 0.20000064328538714, 5: 0.20000064328538714, 1: 0.1999990350719193, 4: 0.1999990350719193}, 'class_distribution_test': {4: 0.20000385971232276, 1: 0.20000385971232276, 5: 0.19999742685845148, 3: 0.19999742685845148, 2: 0.19999742685845148}}
+2025-02-24 22:45:30,726 - INFO - Iniciando procesamiento de: MaxAbs_Nonlinear_selected.parquet
+2025-02-24 22:45:31,395 - INFO - Número de filas cargadas: 560486
+2025-02-24 22:45:31,404 - INFO - Distribución de clases en el dataset: {5: 155452, 4: 125201, 3: 119213, 2: 108742, 1: 51878}
+2025-02-24 22:51:45,078 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 621808, 'test_samples': 155452, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {3: 0.20000064328538714, 2: 0.20000064328538714, 5: 0.20000064328538714, 1: 0.1999990350719193, 4: 0.1999990350719193}, 'class_distribution_test': {4: 0.20000385971232276, 1: 0.20000385971232276, 5: 0.19999742685845148, 3: 0.19999742685845148, 2: 0.19999742685845148}}
+2025-02-24 22:51:45,266 - INFO - Iniciando procesamiento de: MinMax_all_features.parquet
+2025-02-24 22:51:47,819 - INFO - Número de filas cargadas: 560486
+2025-02-24 22:51:47,827 - INFO - Distribución de clases en el dataset: {5: 155452, 4: 125201, 3: 119213, 2: 108742, 1: 51878}
+2025-02-24 23:06:36,672 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 621808, 'test_samples': 155452, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {3: 0.20000064328538714, 2: 0.20000064328538714, 5: 0.20000064328538714, 1: 0.1999990350719193, 4: 0.1999990350719193}, 'class_distribution_test': {4: 0.20000385971232276, 1: 0.20000385971232276, 5: 0.19999742685845148, 3: 0.19999742685845148, 2: 0.19999742685845148}}
+2025-02-24 23:06:37,352 - INFO - Iniciando procesamiento de: MinMax_Linear_selected.parquet
+2025-02-24 23:06:38,097 - INFO - Número de filas cargadas: 560486
+2025-02-24 23:06:38,106 - INFO - Distribución de clases en el dataset: {5: 155452, 4: 125201, 3: 119213, 2: 108742, 1: 51878}
+2025-02-24 23:09:38,587 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 621808, 'test_samples': 155452, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {3: 0.20000064328538714, 2: 0.20000064328538714, 5: 0.20000064328538714, 1: 0.1999990350719193, 4: 0.1999990350719193}, 'class_distribution_test': {4: 0.20000385971232276, 1: 0.20000385971232276, 5: 0.19999742685845148, 3: 0.19999742685845148, 2: 0.19999742685845148}}
+2025-02-24 23:09:38,714 - INFO - Iniciando procesamiento de: MinMax_Model-Based_selected.parquet
+2025-02-24 23:09:38,949 - INFO - Número de filas cargadas: 560486
+2025-02-24 23:09:38,958 - INFO - Distribución de clases en el dataset: {5: 155452, 4: 125201, 3: 119213, 2: 108742, 1: 51878}
+2025-02-24 23:11:37,638 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 621808, 'test_samples': 155452, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {3: 0.20000064328538714, 2: 0.20000064328538714, 5: 0.20000064328538714, 1: 0.1999990350719193, 4: 0.1999990350719193}, 'class_distribution_test': {4: 0.20000385971232276, 1: 0.20000385971232276, 5: 0.19999742685845148, 3: 0.19999742685845148, 2: 0.19999742685845148}}
+2025-02-24 23:11:37,711 - INFO - Iniciando procesamiento de: MinMax_Nonlinear_selected.parquet
+2025-02-24 23:11:38,318 - INFO - Número de filas cargadas: 560486
+2025-02-24 23:11:38,329 - INFO - Distribución de clases en el dataset: {5: 155452, 4: 125201, 3: 119213, 2: 108742, 1: 51878}
+2025-02-24 23:14:47,875 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 621808, 'test_samples': 155452, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {3: 0.20000064328538714, 2: 0.20000064328538714, 5: 0.20000064328538714, 1: 0.1999990350719193, 4: 0.1999990350719193}, 'class_distribution_test': {4: 0.20000385971232276, 1: 0.20000385971232276, 5: 0.19999742685845148, 3: 0.19999742685845148, 2: 0.19999742685845148}}
+2025-02-24 23:14:48,015 - INFO - Iniciando procesamiento de: NoNorm_all_features.parquet
+2025-02-24 23:14:50,133 - INFO - Número de filas cargadas: 560486
+2025-02-24 23:14:50,146 - INFO - Distribución de clases en el dataset: {5: 155452, 4: 125201, 3: 119213, 2: 108742, 1: 51878}
+2025-02-24 23:27:35,167 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 621808, 'test_samples': 155452, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {3: 0.20000064328538714, 2: 0.20000064328538714, 5: 0.20000064328538714, 1: 0.1999990350719193, 4: 0.1999990350719193}, 'class_distribution_test': {4: 0.20000385971232276, 1: 0.20000385971232276, 5: 0.19999742685845148, 3: 0.19999742685845148, 2: 0.19999742685845148}}
+2025-02-24 23:27:35,916 - INFO - Iniciando procesamiento de: NoNorm_Linear_selected.parquet
+2025-02-24 23:27:36,715 - INFO - Número de filas cargadas: 560486
+2025-02-24 23:27:36,721 - INFO - Distribución de clases en el dataset: {5: 155452, 4: 125201, 3: 119213, 2: 108742, 1: 51878}
+2025-02-24 23:30:43,028 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 621808, 'test_samples': 155452, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {3: 0.20000064328538714, 2: 0.20000064328538714, 5: 0.20000064328538714, 1: 0.1999990350719193, 4: 0.1999990350719193}, 'class_distribution_test': {4: 0.20000385971232276, 1: 0.20000385971232276, 5: 0.19999742685845148, 3: 0.19999742685845148, 2: 0.19999742685845148}}
+2025-02-24 23:30:43,156 - INFO - Iniciando procesamiento de: NoNorm_Model-Based_selected.parquet
+2025-02-24 23:30:43,191 - INFO - Número de filas cargadas: 560486
+2025-02-24 23:30:43,208 - INFO - Distribución de clases en el dataset: {5: 155452, 4: 125201, 3: 119213, 2: 108742, 1: 51878}
+2025-02-24 23:30:47,504 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 621808, 'test_samples': 155452, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {3: 0.20000064328538714, 2: 0.20000064328538714, 5: 0.20000064328538714, 1: 0.1999990350719193, 4: 0.1999990350719193}, 'class_distribution_test': {4: 0.20000385971232276, 1: 0.20000385971232276, 5: 0.19999742685845148, 3: 0.19999742685845148, 2: 0.19999742685845148}}
+2025-02-24 23:30:47,504 - INFO - Iniciando procesamiento de: NoNorm_Nonlinear_selected.parquet
+2025-02-24 23:30:48,241 - INFO - Número de filas cargadas: 560486
+2025-02-24 23:30:48,249 - INFO - Distribución de clases en el dataset: {5: 155452, 4: 125201, 3: 119213, 2: 108742, 1: 51878}
+2025-02-24 23:34:04,170 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 621808, 'test_samples': 155452, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {3: 0.20000064328538714, 2: 0.20000064328538714, 5: 0.20000064328538714, 1: 0.1999990350719193, 4: 0.1999990350719193}, 'class_distribution_test': {4: 0.20000385971232276, 1: 0.20000385971232276, 5: 0.19999742685845148, 3: 0.19999742685845148, 2: 0.19999742685845148}}
+2025-02-24 23:34:04,305 - INFO - Iniciando procesamiento de: Robust_all_features.parquet
+2025-02-24 23:34:06,628 - INFO - Número de filas cargadas: 560486
+2025-02-24 23:34:06,636 - INFO - Distribución de clases en el dataset: {5: 155452, 4: 125201, 3: 119213, 2: 108742, 1: 51878}
+2025-02-24 23:46:08,869 - ERROR - Error procesando Robust_all_features.parquet: [Errno 28] Error writing bytes to file. Detail: [errno 28] No space left on device
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2098460591.py", line 223, in create_train_test_split
+    X_train.to_parquet(os.path.join(output_path, f"X_train_{file_id}.parquet"), **save_params)
+  File "c:\Users\Administrador\Documents\PythonScripts\Tesis\tesisaustral\.venv\Lib\site-packages\pandas\core\frame.py", line 2970, in to_parquet
+    return to_parquet(
+           ^^^^^^^^^^^
+  File "c:\Users\Administrador\Documents\PythonScripts\Tesis\tesisaustral\.venv\Lib\site-packages\pandas\io\parquet.py", line 483, in to_parquet
+    impl.write(
+  File "c:\Users\Administrador\Documents\PythonScripts\Tesis\tesisaustral\.venv\Lib\site-packages\pandas\io\parquet.py", line 226, in write
+    self.api.parquet.write_table(
+  File "c:\Users\Administrador\Documents\PythonScripts\Tesis\tesisaustral\.venv\Lib\site-packages\pyarrow\parquet\core.py", line 1928, in write_table
+    writer.write_table(table, row_group_size=row_group_size)
+  File "c:\Users\Administrador\Documents\PythonScripts\Tesis\tesisaustral\.venv\Lib\site-packages\pyarrow\parquet\core.py", line 1116, in write_table
+    self.writer.write_table(table, row_group_size=row_group_size)
+  File "pyarrow\\_parquet.pyx", line 2242, in pyarrow._parquet.ParquetWriter.write_table
+  File "pyarrow\\error.pxi", line 92, in pyarrow.lib.check_status
+OSError: [Errno 28] Error writing bytes to file. Detail: [errno 28] No space left on device
+2025-02-24 23:46:09,677 - INFO - Iniciando procesamiento de: Robust_Linear_selected.parquet
+2025-02-24 23:46:10,388 - INFO - Número de filas cargadas: 560486
+2025-02-24 23:46:10,394 - INFO - Distribución de clases en el dataset: {5: 155452, 4: 125201, 3: 119213, 2: 108742, 1: 51878}
+2025-02-24 23:49:16,752 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 621808, 'test_samples': 155452, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {3: 0.20000064328538714, 2: 0.20000064328538714, 5: 0.20000064328538714, 1: 0.1999990350719193, 4: 0.1999990350719193}, 'class_distribution_test': {4: 0.20000385971232276, 1: 0.20000385971232276, 5: 0.19999742685845148, 3: 0.19999742685845148, 2: 0.19999742685845148}}
+2025-02-24 23:49:16,869 - INFO - Iniciando procesamiento de: Robust_Model-Based_selected.parquet
+2025-02-24 23:49:16,923 - INFO - Número de filas cargadas: 560486
+2025-02-24 23:49:16,925 - INFO - Distribución de clases en el dataset: {5: 155452, 4: 125201, 3: 119213, 2: 108742, 1: 51878}
+2025-02-24 23:49:21,298 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 621808, 'test_samples': 155452, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {3: 0.20000064328538714, 2: 0.20000064328538714, 5: 0.20000064328538714, 1: 0.1999990350719193, 4: 0.1999990350719193}, 'class_distribution_test': {4: 0.20000385971232276, 1: 0.20000385971232276, 5: 0.19999742685845148, 3: 0.19999742685845148, 2: 0.19999742685845148}}
+2025-02-24 23:49:21,298 - INFO - Iniciando procesamiento de: Robust_Nonlinear_selected.parquet
+2025-02-24 23:49:21,821 - INFO - Número de filas cargadas: 560486
+2025-02-24 23:49:21,831 - INFO - Distribución de clases en el dataset: {5: 155452, 4: 125201, 3: 119213, 2: 108742, 1: 51878}
+2025-02-24 23:52:39,713 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 621808, 'test_samples': 155452, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {3: 0.20000064328538714, 2: 0.20000064328538714, 5: 0.20000064328538714, 1: 0.1999990350719193, 4: 0.1999990350719193}, 'class_distribution_test': {4: 0.20000385971232276, 1: 0.20000385971232276, 5: 0.19999742685845148, 3: 0.19999742685845148, 2: 0.19999742685845148}}
+2025-02-24 23:52:39,846 - INFO - Iniciando procesamiento de: Standard_all_features.parquet
+2025-02-24 23:52:41,981 - INFO - Número de filas cargadas: 560486
+2025-02-24 23:52:41,985 - INFO - Distribución de clases en el dataset: {5: 155452, 4: 125201, 3: 119213, 2: 108742, 1: 51878}
+2025-02-25 00:05:21,868 - ERROR - Error procesando Standard_all_features.parquet: [Errno 28] Error writing bytes to file. Detail: [errno 28] No space left on device
+Traceback (most recent call last):
+  File "C:\Users\Administrador\AppData\Local\Temp\ipykernel_17032\2098460591.py", line 223, in create_train_test_split
+    X_train.to_parquet(os.path.join(output_path, f"X_train_{file_id}.parquet"), **save_params)
+  File "c:\Users\Administrador\Documents\PythonScripts\Tesis\tesisaustral\.venv\Lib\site-packages\pandas\core\frame.py", line 2970, in to_parquet
+    return to_parquet(
+           ^^^^^^^^^^^
+  File "c:\Users\Administrador\Documents\PythonScripts\Tesis\tesisaustral\.venv\Lib\site-packages\pandas\io\parquet.py", line 483, in to_parquet
+    impl.write(
+  File "c:\Users\Administrador\Documents\PythonScripts\Tesis\tesisaustral\.venv\Lib\site-packages\pandas\io\parquet.py", line 226, in write
+    self.api.parquet.write_table(
+  File "c:\Users\Administrador\Documents\PythonScripts\Tesis\tesisaustral\.venv\Lib\site-packages\pyarrow\parquet\core.py", line 1928, in write_table
+    writer.write_table(table, row_group_size=row_group_size)
+  File "c:\Users\Administrador\Documents\PythonScripts\Tesis\tesisaustral\.venv\Lib\site-packages\pyarrow\parquet\core.py", line 1116, in write_table
+    self.writer.write_table(table, row_group_size=row_group_size)
+  File "pyarrow\\_parquet.pyx", line 2242, in pyarrow._parquet.ParquetWriter.write_table
+  File "pyarrow\\error.pxi", line 92, in pyarrow.lib.check_status
+OSError: [Errno 28] Error writing bytes to file. Detail: [errno 28] No space left on device
+2025-02-25 00:05:22,568 - INFO - Iniciando procesamiento de: Standard_Linear_selected.parquet
+2025-02-25 00:05:23,142 - INFO - Número de filas cargadas: 560486
+2025-02-25 00:05:23,150 - INFO - Distribución de clases en el dataset: {5: 155452, 4: 125201, 3: 119213, 2: 108742, 1: 51878}
+2025-02-25 00:08:29,778 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 621808, 'test_samples': 155452, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {3: 0.20000064328538714, 2: 0.20000064328538714, 5: 0.20000064328538714, 1: 0.1999990350719193, 4: 0.1999990350719193}, 'class_distribution_test': {4: 0.20000385971232276, 1: 0.20000385971232276, 5: 0.19999742685845148, 3: 0.19999742685845148, 2: 0.19999742685845148}}
+2025-02-25 00:08:29,894 - INFO - Iniciando procesamiento de: Standard_Model-Based_selected.parquet
+2025-02-25 00:08:30,138 - INFO - Número de filas cargadas: 560486
+2025-02-25 00:08:30,149 - INFO - Distribución de clases en el dataset: {5: 155452, 4: 125201, 3: 119213, 2: 108742, 1: 51878}
+2025-02-25 00:10:36,079 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 621808, 'test_samples': 155452, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {3: 0.20000064328538714, 2: 0.20000064328538714, 5: 0.20000064328538714, 1: 0.1999990350719193, 4: 0.1999990350719193}, 'class_distribution_test': {4: 0.20000385971232276, 1: 0.20000385971232276, 5: 0.19999742685845148, 3: 0.19999742685845148, 2: 0.19999742685845148}}
+2025-02-25 00:10:36,142 - INFO - Iniciando procesamiento de: Standard_Nonlinear_selected.parquet
+2025-02-25 00:10:36,636 - INFO - Número de filas cargadas: 560486
+2025-02-25 00:10:36,645 - INFO - Distribución de clases en el dataset: {5: 155452, 4: 125201, 3: 119213, 2: 108742, 1: 51878}
+2025-02-25 00:13:55,407 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 621808, 'test_samples': 155452, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {3: 0.20000064328538714, 2: 0.20000064328538714, 5: 0.20000064328538714, 1: 0.1999990350719193, 4: 0.1999990350719193}, 'class_distribution_test': {4: 0.20000385971232276, 1: 0.20000385971232276, 5: 0.19999742685845148, 3: 0.19999742685845148, 2: 0.19999742685845148}}
+2025-02-25 00:13:55,589 - INFO - Proceso finalizado: 18/20 exitosos
+2025-02-25 20:39:02,092 - INFO - Distribución de clases en el dataset: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1}
+2025-02-25 20:39:02,100 - INFO - Iniciando procesamiento de: MaxAbs_all_features.parquet
+2025-02-25 20:39:15,162 - INFO - Número de filas cargadas: 560486
+2025-02-25 20:39:15,582 - INFO - Distribución de clases en el dataset: {5: 155452, 4: 125201, 3: 119213, 2: 108742, 1: 51878}
+2025-02-25 20:41:49,895 - INFO - Distribución de clases en el dataset: {1: 1, 2: 1, 3: 1, 4: 1, 5: 1}
+2025-02-25 20:41:49,895 - INFO - Iniciando procesamiento de: MaxAbs_all_features.parquet
+2025-02-25 20:41:51,989 - INFO - Número de filas cargadas: 560486
+2025-02-25 20:41:51,994 - INFO - Distribución de clases en el dataset: {5: 155452, 4: 125201, 3: 119213, 2: 108742, 1: 51878}
+2025-02-25 20:51:04,718 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 621805, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {2: 0.2, 3: 0.2, 5: 0.2, 4: 0.2, 1: 0.2}, 'class_distribution_test': {5: 0.27735552819854054, 4: 0.22337597459365913, 3: 0.21269781798069545, 2: 0.19400881371656942, 1: 0.09256186551053543}}
+2025-02-25 20:51:05,709 - INFO - Iniciando procesamiento de: MaxAbs_Linear_selected.parquet
+2025-02-25 20:51:06,383 - INFO - Número de filas cargadas: 560486
+2025-02-25 20:51:06,391 - INFO - Distribución de clases en el dataset: {5: 155452, 4: 125201, 3: 119213, 2: 108742, 1: 51878}
+2025-02-25 20:53:13,714 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 621805, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {2: 0.2, 3: 0.2, 5: 0.2, 4: 0.2, 1: 0.2}, 'class_distribution_test': {5: 0.27735552819854054, 4: 0.22337597459365913, 3: 0.21269781798069545, 2: 0.19400881371656942, 1: 0.09256186551053543}}
+2025-02-25 20:53:13,831 - INFO - Iniciando procesamiento de: MaxAbs_Model-Based_selected.parquet
+2025-02-25 20:53:14,073 - INFO - Número de filas cargadas: 560486
+2025-02-25 20:53:14,086 - INFO - Distribución de clases en el dataset: {5: 155452, 4: 125201, 3: 119213, 2: 108742, 1: 51878}
+2025-02-25 20:54:38,892 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 621805, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {2: 0.2, 3: 0.2, 5: 0.2, 4: 0.2, 1: 0.2}, 'class_distribution_test': {5: 0.27735552819854054, 4: 0.22337597459365913, 3: 0.21269781798069545, 2: 0.19400881371656942, 1: 0.09256186551053543}}
+2025-02-25 20:54:38,952 - INFO - Iniciando procesamiento de: MaxAbs_Nonlinear_selected.parquet
+2025-02-25 20:54:39,440 - INFO - Número de filas cargadas: 560486
+2025-02-25 20:54:39,446 - INFO - Distribución de clases en el dataset: {5: 155452, 4: 125201, 3: 119213, 2: 108742, 1: 51878}
+2025-02-25 20:56:54,059 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 621805, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {2: 0.2, 3: 0.2, 5: 0.2, 4: 0.2, 1: 0.2}, 'class_distribution_test': {5: 0.27735552819854054, 4: 0.22337597459365913, 3: 0.21269781798069545, 2: 0.19400881371656942, 1: 0.09256186551053543}}
+2025-02-25 20:56:54,192 - INFO - Iniciando procesamiento de: MinMax_all_features.parquet
+2025-02-25 20:56:56,123 - INFO - Número de filas cargadas: 560486
+2025-02-25 20:56:56,127 - INFO - Distribución de clases en el dataset: {5: 155452, 4: 125201, 3: 119213, 2: 108742, 1: 51878}
+2025-02-25 21:06:02,433 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 621805, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {2: 0.2, 3: 0.2, 5: 0.2, 4: 0.2, 1: 0.2}, 'class_distribution_test': {5: 0.27735552819854054, 4: 0.22337597459365913, 3: 0.21269781798069545, 2: 0.19400881371656942, 1: 0.09256186551053543}}
+2025-02-25 21:06:02,935 - INFO - Iniciando procesamiento de: MinMax_Linear_selected.parquet
+2025-02-25 21:06:03,551 - INFO - Número de filas cargadas: 560486
+2025-02-25 21:06:03,556 - INFO - Distribución de clases en el dataset: {5: 155452, 4: 125201, 3: 119213, 2: 108742, 1: 51878}
+2025-02-25 21:08:10,295 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 621805, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {2: 0.2, 3: 0.2, 5: 0.2, 4: 0.2, 1: 0.2}, 'class_distribution_test': {5: 0.27735552819854054, 4: 0.22337597459365913, 3: 0.21269781798069545, 2: 0.19400881371656942, 1: 0.09256186551053543}}
+2025-02-25 21:08:10,412 - INFO - Iniciando procesamiento de: MinMax_Model-Based_selected.parquet
+2025-02-25 21:08:10,660 - INFO - Número de filas cargadas: 560486
+2025-02-25 21:08:10,668 - INFO - Distribución de clases en el dataset: {5: 155452, 4: 125201, 3: 119213, 2: 108742, 1: 51878}
+2025-02-25 21:09:31,574 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 621805, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {2: 0.2, 3: 0.2, 5: 0.2, 4: 0.2, 1: 0.2}, 'class_distribution_test': {5: 0.27735552819854054, 4: 0.22337597459365913, 3: 0.21269781798069545, 2: 0.19400881371656942, 1: 0.09256186551053543}}
+2025-02-25 21:09:31,636 - INFO - Iniciando procesamiento de: MinMax_Nonlinear_selected.parquet
+2025-02-25 21:09:32,125 - INFO - Número de filas cargadas: 560486
+2025-02-25 21:09:32,125 - INFO - Distribución de clases en el dataset: {5: 155452, 4: 125201, 3: 119213, 2: 108742, 1: 51878}
+2025-02-25 21:11:49,024 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 621805, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {2: 0.2, 3: 0.2, 5: 0.2, 4: 0.2, 1: 0.2}, 'class_distribution_test': {5: 0.27735552819854054, 4: 0.22337597459365913, 3: 0.21269781798069545, 2: 0.19400881371656942, 1: 0.09256186551053543}}
+2025-02-25 21:11:49,141 - INFO - Iniciando procesamiento de: NoNorm_all_features.parquet
+2025-02-25 21:11:51,323 - INFO - Número de filas cargadas: 560486
+2025-02-25 21:11:51,333 - INFO - Distribución de clases en el dataset: {5: 155452, 4: 125201, 3: 119213, 2: 108742, 1: 51878}
+2025-02-25 21:21:26,902 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 621805, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {2: 0.2, 3: 0.2, 5: 0.2, 4: 0.2, 1: 0.2}, 'class_distribution_test': {5: 0.27735552819854054, 4: 0.22337597459365913, 3: 0.21269781798069545, 2: 0.19400881371656942, 1: 0.09256186551053543}}
+2025-02-25 21:21:27,917 - INFO - Iniciando procesamiento de: NoNorm_Linear_selected.parquet
+2025-02-25 21:21:28,710 - INFO - Número de filas cargadas: 560486
+2025-02-25 21:21:28,722 - INFO - Distribución de clases en el dataset: {5: 155452, 4: 125201, 3: 119213, 2: 108742, 1: 51878}
+2025-02-25 21:23:42,411 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 621805, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {2: 0.2, 3: 0.2, 5: 0.2, 4: 0.2, 1: 0.2}, 'class_distribution_test': {5: 0.27735552819854054, 4: 0.22337597459365913, 3: 0.21269781798069545, 2: 0.19400881371656942, 1: 0.09256186551053543}}
+2025-02-25 21:23:42,558 - INFO - Iniciando procesamiento de: NoNorm_Model-Based_selected.parquet
+2025-02-25 21:23:42,609 - INFO - Número de filas cargadas: 560486
+2025-02-25 21:23:42,616 - INFO - Distribución de clases en el dataset: {5: 155452, 4: 125201, 3: 119213, 2: 108742, 1: 51878}
+2025-02-25 21:23:48,087 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 621805, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {2: 0.2, 3: 0.2, 5: 0.2, 4: 0.2, 1: 0.2}, 'class_distribution_test': {5: 0.27735552819854054, 4: 0.22337597459365913, 3: 0.21269781798069545, 2: 0.19400881371656942, 1: 0.09256186551053543}}
+2025-02-25 21:23:48,099 - INFO - Iniciando procesamiento de: NoNorm_Nonlinear_selected.parquet
+2025-02-25 21:23:48,709 - INFO - Número de filas cargadas: 560486
+2025-02-25 21:23:48,715 - INFO - Distribución de clases en el dataset: {5: 155452, 4: 125201, 3: 119213, 2: 108742, 1: 51878}
+2025-02-25 21:26:11,394 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 621805, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {2: 0.2, 3: 0.2, 5: 0.2, 4: 0.2, 1: 0.2}, 'class_distribution_test': {5: 0.27735552819854054, 4: 0.22337597459365913, 3: 0.21269781798069545, 2: 0.19400881371656942, 1: 0.09256186551053543}}
+2025-02-25 21:26:11,554 - INFO - Iniciando procesamiento de: Robust_all_features.parquet
+2025-02-25 21:26:13,783 - INFO - Número de filas cargadas: 560486
+2025-02-25 21:26:13,792 - INFO - Distribución de clases en el dataset: {5: 155452, 4: 125201, 3: 119213, 2: 108742, 1: 51878}
+2025-02-25 21:35:31,996 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 621805, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {2: 0.2, 3: 0.2, 5: 0.2, 4: 0.2, 1: 0.2}, 'class_distribution_test': {5: 0.27735552819854054, 4: 0.22337597459365913, 3: 0.21269781798069545, 2: 0.19400881371656942, 1: 0.09256186551053543}}
+2025-02-25 21:35:32,513 - INFO - Iniciando procesamiento de: Robust_Linear_selected.parquet
+2025-02-25 21:35:33,289 - INFO - Número de filas cargadas: 560486
+2025-02-25 21:35:33,299 - INFO - Distribución de clases en el dataset: {5: 155452, 4: 125201, 3: 119213, 2: 108742, 1: 51878}
+2025-02-25 21:37:40,261 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 621805, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {2: 0.2, 3: 0.2, 5: 0.2, 4: 0.2, 1: 0.2}, 'class_distribution_test': {5: 0.27735552819854054, 4: 0.22337597459365913, 3: 0.21269781798069545, 2: 0.19400881371656942, 1: 0.09256186551053543}}
+2025-02-25 21:37:40,381 - INFO - Iniciando procesamiento de: Robust_Model-Based_selected.parquet
+2025-02-25 21:37:40,429 - INFO - Número de filas cargadas: 560486
+2025-02-25 21:37:40,435 - INFO - Distribución de clases en el dataset: {5: 155452, 4: 125201, 3: 119213, 2: 108742, 1: 51878}
+2025-02-25 21:37:44,728 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 621805, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {2: 0.2, 3: 0.2, 5: 0.2, 4: 0.2, 1: 0.2}, 'class_distribution_test': {5: 0.27735552819854054, 4: 0.22337597459365913, 3: 0.21269781798069545, 2: 0.19400881371656942, 1: 0.09256186551053543}}
+2025-02-25 21:37:44,740 - INFO - Iniciando procesamiento de: Robust_Nonlinear_selected.parquet
+2025-02-25 21:37:45,304 - INFO - Número de filas cargadas: 560486
+2025-02-25 21:37:45,314 - INFO - Distribución de clases en el dataset: {5: 155452, 4: 125201, 3: 119213, 2: 108742, 1: 51878}
+2025-02-25 21:40:00,169 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 621805, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {2: 0.2, 3: 0.2, 5: 0.2, 4: 0.2, 1: 0.2}, 'class_distribution_test': {5: 0.27735552819854054, 4: 0.22337597459365913, 3: 0.21269781798069545, 2: 0.19400881371656942, 1: 0.09256186551053543}}
+2025-02-25 21:40:00,286 - INFO - Iniciando procesamiento de: Standard_all_features.parquet
+2025-02-25 21:40:02,644 - INFO - Número de filas cargadas: 560486
+2025-02-25 21:40:02,654 - INFO - Distribución de clases en el dataset: {5: 155452, 4: 125201, 3: 119213, 2: 108742, 1: 51878}
+2025-02-25 21:49:31,314 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 621805, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {2: 0.2, 3: 0.2, 5: 0.2, 4: 0.2, 1: 0.2}, 'class_distribution_test': {5: 0.27735552819854054, 4: 0.22337597459365913, 3: 0.21269781798069545, 2: 0.19400881371656942, 1: 0.09256186551053543}}
+2025-02-25 21:49:31,802 - INFO - Iniciando procesamiento de: Standard_Linear_selected.parquet
+2025-02-25 21:49:32,449 - INFO - Número de filas cargadas: 560486
+2025-02-25 21:49:32,456 - INFO - Distribución de clases en el dataset: {5: 155452, 4: 125201, 3: 119213, 2: 108742, 1: 51878}
+2025-02-25 21:52:22,753 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 621805, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {2: 0.2, 3: 0.2, 5: 0.2, 4: 0.2, 1: 0.2}, 'class_distribution_test': {5: 0.27735552819854054, 4: 0.22337597459365913, 3: 0.21269781798069545, 2: 0.19400881371656942, 1: 0.09256186551053543}}
+2025-02-25 21:52:22,938 - INFO - Iniciando procesamiento de: Standard_Model-Based_selected.parquet
+2025-02-25 21:52:23,239 - INFO - Número de filas cargadas: 560486
+2025-02-25 21:52:23,245 - INFO - Distribución de clases en el dataset: {5: 155452, 4: 125201, 3: 119213, 2: 108742, 1: 51878}
+2025-02-25 21:54:43,421 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 621805, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {2: 0.2, 3: 0.2, 5: 0.2, 4: 0.2, 1: 0.2}, 'class_distribution_test': {5: 0.27735552819854054, 4: 0.22337597459365913, 3: 0.21269781798069545, 2: 0.19400881371656942, 1: 0.09256186551053543}}
+2025-02-25 21:54:43,541 - INFO - Iniciando procesamiento de: Standard_Nonlinear_selected.parquet
+2025-02-25 21:54:44,192 - INFO - Número de filas cargadas: 560486
+2025-02-25 21:54:44,211 - INFO - Distribución de clases en el dataset: {5: 155452, 4: 125201, 3: 119213, 2: 108742, 1: 51878}
+2025-02-25 21:58:15,669 - INFO - Split exitoso: {'original_samples': 560486, 'train_samples': 621805, 'test_samples': 112098, 'train_classes': 5, 'test_classes': 5, 'class_distribution_train': {2: 0.2, 3: 0.2, 5: 0.2, 4: 0.2, 1: 0.2}, 'class_distribution_test': {5: 0.27735552819854054, 4: 0.22337597459365913, 3: 0.21269781798069545, 2: 0.19400881371656942, 1: 0.09256186551053543}}
+2025-02-25 21:58:15,800 - INFO - Proceso finalizado: 20/20 exitosos
+2025-03-02 22:47:33,931 - INFO - Iniciando procesamiento de: MaxAbs_all_features.parquet
